@@ -7,3 +7,5 @@
 # Neler öğretilecek?
 
 Web uygulamalarını hem frontend hem de backend tarafından detaylı şekilde işleyeceğiz. Anlatılacak tüm pratikler sektör tarafından kullanılan yöntemler doğrultusunda şekillenecek ve farklı projelerde çalışmış uzman kişilerin katılımıyla güçlendirilecek. Keywords: HTML5 & CSS3, Javascript (Angular), PHP (Laravel), NodeJS (Express), CSS (SCSS), PostgreSQL, Redis, MongoDB, Jenkins, Git, Cloud
+
+-Kolay İK
